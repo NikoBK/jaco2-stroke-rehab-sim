@@ -19,7 +19,7 @@ The code found in this repository is not only restricted to usage relevant to re
 This repository comes with a few examples in the examples folder, but let's go through it while you are here.
 
 ### Trajectory Movement Simulation
-Exported .GIF animations of the simulation (Please note this only shows blue lines for manipulator links) in different directions:
+Exported .GIF animations of the simulation (Please note this only shows blue lines for manipulator links) in different directions:                   
 ![Moving from left to right](https://raw.githubusercontent.com/NikoBK/jaco2-stroke-rehab-sim/main/examples/robotRender/jacoLeftToRightLinear.gif)
 ![Moving from right to left](https://raw.githubusercontent.com/NikoBK/jaco2-stroke-rehab-sim/main/examples/robotRender/jacoRightToLeftLinear.gif)
 
