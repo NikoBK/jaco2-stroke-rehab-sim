@@ -1,8 +1,6 @@
 % Name:         main.m
 % Created:      5/23/2022
-% Authors: Mikkeline Havgaard, Magnus Bøgh-Larsen,
-%     Marcus Langfeldt, Frederik Boel, Emil Frydenholm,
-%           Nikolaj Krebs.
+% Authors: Group B302f
 %
 %
 % INTRODUCTION:

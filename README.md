@@ -1,6 +1,6 @@
 # jaco2-stroke-rehab-sim
 ## About this project
-This project was made by second semester students from Aalborg University, studying robotics engineering. The project subject was 'robotic manipulator programming & simulation', which includes and requires the project to do all the math and programming for inverse, and forward kinematics as well as trajectory planning without the usage of libraries. The bare necessity libraries are excused.
+This project was made by group B302f on the second semester of Aalborg University's robottechnology b.sc. The project subject is 'robotic manipulator programming & simulation', which includes and requires the project to do all the math and programming for inverse, and forward kinematics as well as trajectory planning without the usage of libraries. The bare necessity libraries are excused.
 
 ## Introduction
 In our approach to the subject we were given, we agreed upon coding and simulating inverse, and forward kinematics as well as trajectory planning for the Kinova Jaco2.
